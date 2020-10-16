@@ -1,2 +1,3 @@
 # learning-resource
-这个分支是专门存放c++相关资源的。
+booklist.xlsx记录了本仓库涉及的书目，包括书名，版本，作者，介绍等内容
+
